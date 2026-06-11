@@ -21,6 +21,7 @@ hihi：
 **可以直接点击这个链接进入**：[https://rrochee.github.io/FIFA2026/](https://rrochee.github.io/FIFA2026/)
 
 > 由于我觉得很好看且很好用，因此将它分享，尝试让更多人体会到看球的快乐(๑•̀ㅂ•́)و✧
+> 特别感谢我的好伙伴 Deepseek小鲸鱼 🐋，在整个开发过程中给了我很多的帮助和灵感！
 
 ---
 
@@ -43,3 +44,4 @@ Here are some highlights:
 **Click the link to access it**: [https://rrochee.github.io/FIFA2026/index-en.html](https://rrochee.github.io/FIFA2026/index-en.html)
 
 > I think it looks great and works great, so I'm sharing it to spread the joy of watching football to more people (๑•̀ㅂ•́)و✧
+> Special thanks to my buddy Deepseek 🐋 for the companionship and help throughout the development!
